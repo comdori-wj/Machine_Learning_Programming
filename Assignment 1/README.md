@@ -5,8 +5,8 @@ Machine Learning Programming with Python
 ### [hw1.py](hw1.py)
 ![](img/hw1.png)
 
-### hw2.py
-
+### [hw2.py](hw2.py)
+![](img/hw2.png)
 ### hw3.py
 
 ### hw4.py
