@@ -37,10 +37,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Assignment 1/hw3" />
       <recent name="$PROJECT_DIR$/Assignment 1/img" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hw1">
+  <component name="RunManager" selected="Python.hw3">
     <configuration name="call1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Machine_Learning_Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,8 +86,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="hw3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Machine_Learning_Programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment 1/hw3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hw3" />
         <item itemvalue="Python.hw1" />
         <item itemvalue="Python.call1" />
       </list>
@@ -107,7 +131,7 @@
       <workItem from="1679689590288" duration="1073000" />
       <workItem from="1679690670972" duration="637000" />
       <workItem from="1679768155814" duration="1951000" />
-      <workItem from="1679844605839" duration="56000" />
+      <workItem from="1679844605839" duration="948000" />
     </task>
     <servers />
   </component>
@@ -117,5 +141,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Machine_Learning_Programming$call1.coverage" NAME="call1 Coverage Results" MODIFIED="1679689012087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW2" />
     <SUITE FILE_PATH="coverage/Machine_Learning_Programming$hw1.coverage" NAME="hw1 Coverage Results" MODIFIED="1679689928138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 1" />
+    <SUITE FILE_PATH="coverage/Machine_Learning_Programming$hw3.coverage" NAME="hw3 커버리지 결과" MODIFIED="1679844959559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment 1" />
   </component>
 </project>
