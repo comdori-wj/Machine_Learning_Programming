@@ -14,4 +14,4 @@ Machine Learning Programming with Python
 >> 4.동적 타이핑 언어 : 프로그램의 실행 시점에서 각 프로그램 변수의 타입을 결정하는 언어이다.
 
 ## [과제 1](Assignment%201%2FREADME.md)
-
+## [과제 2](Assignment%202%2FREADME.md)
