@@ -9,3 +9,7 @@ Machine Learning Programming with Python
 > ### [call2.py](call2.py)
 >![](img/call2.png)
 
+> ### [asterisk1.py](asterisk1.py)
+>![](img/asterisk1.png)
+> 
+> 
