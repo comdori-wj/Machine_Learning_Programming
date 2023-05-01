@@ -14,3 +14,6 @@ Machine Learning Programming with Python
 
 > ### [asterisk2.py](asterisk2.py)
 >![](img/asterisk2.png)
+
+> ### [asterisk3.py](asterisk3.py)
+>![](img/asterisk3.png)
