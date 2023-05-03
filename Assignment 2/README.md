@@ -3,6 +3,9 @@ Machine Learning Programming with Python
 >머신러닝 프로그래밍 파이썬 과제 2
 ## Screenshots 📸 🖼
 
+> ### [hello1.py](hello1.py)
+>![](img/hello1.png)
+
 > ### [call1.py](call1.py)
 >![](img/call1.png)
 
