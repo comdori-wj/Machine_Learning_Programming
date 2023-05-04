@@ -6,6 +6,9 @@ Machine Learning Programming with Python
 > ### [hello1.py](hello1.py)
 >![](img/hello1.png)
 
+> ### [hello2.py](hello2.py)
+>![](img/hello2.png)
+
 > ### [call1.py](call1.py)
 >![](img/call1.png)
 
