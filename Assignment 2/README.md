@@ -15,6 +15,9 @@ Machine Learning Programming with Python
 > ### [function.py](function.py)
 >![](img/function.png)
 
+> ### [function_type.py](function_type.py)
+>![](img/function_type.png)
+
 > ### [call1.py](call1.py)
 >![](img/call1.png)
 
