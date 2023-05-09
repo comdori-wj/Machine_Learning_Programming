@@ -21,6 +21,9 @@ Machine Learning Programming with Python
 > ### [keyword.py](keyword.py)
 >![](img/keyword.png)
 
+> ### [default.py](default.py)
+>![](img/default.png)
+
 > ### [call1.py](call1.py)
 >![](img/call1.png)
 
