@@ -41,3 +41,6 @@ Machine Learning Programming with Python
 
 > ### [asterisk4.py](asterisk4.py)
 >![](img/asterisk4.png)
+
+> ### [local_variable.py](local_variable.py)
+>![](img/local_variable.png)
