@@ -44,3 +44,6 @@ Machine Learning Programming with Python
 
 > ### [local_variable.py](local_variable.py)
 >![](img/local_variable.png)
+
+> ### [global_variable.py](global_variable.py)
+>![](img/global_variable.png)
