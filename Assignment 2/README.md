@@ -47,3 +47,6 @@ Machine Learning Programming with Python
 
 > ### [global_variable.py](global_variable.py)
 >![](img/global_variable.png)
+
+> ### [factorial.py](factorial.py)
+>![](img/factorial.png)
