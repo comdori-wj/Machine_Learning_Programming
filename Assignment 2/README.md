@@ -50,3 +50,6 @@ Machine Learning Programming with Python
 
 > ### [factorial.py](factorial.py)
 >![](img/factorial.png)
+
+> ### [kwargs.py](kwargs.py)
+>![](img/kwargs.png)
