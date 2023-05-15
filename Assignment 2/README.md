@@ -53,3 +53,6 @@ Machine Learning Programming with Python
 
 > ### [kwargs.py](kwargs.py)
 >![](img/kwargs.png)
+
+> ### [math1.py](math1.py)
+>![](img/math1.png)
