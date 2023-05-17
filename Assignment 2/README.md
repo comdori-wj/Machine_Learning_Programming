@@ -56,3 +56,6 @@ Machine Learning Programming with Python
 
 > ### [math1.py](math1.py)
 >![](img/math1.png)
+
+> ### [math2.py](math2.py)
+>![](img/math2.png)
