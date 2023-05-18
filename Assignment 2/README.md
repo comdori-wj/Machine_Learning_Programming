@@ -59,3 +59,6 @@ Machine Learning Programming with Python
 
 > ### [math2.py](math2.py)
 >![](img/math2.png)
+ 
+> ### [rectanglr_area.py](rectanglr_area.py)
+>![](img/rectanglr_area.png)
