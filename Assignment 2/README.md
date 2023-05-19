@@ -62,3 +62,6 @@ Machine Learning Programming with Python
  
 > ### [rectanglr_area.py](rectanglr_area.py)
 >![](img/rectanglr_area.png)
+
+> ### [scoping_rule.py](scoping_rule.py)
+>![](img/scoping_rule.png)
