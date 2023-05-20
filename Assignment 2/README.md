@@ -65,3 +65,6 @@ Machine Learning Programming with Python
 
 > ### [scoping_rule.py](scoping_rule.py)
 >![](img/scoping_rule.png)
+
+> ### [scoping_rule_final.py](scoping_rule_final.py)
+>![](img/scoping_rule_final.png)
